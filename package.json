@@ -1,0 +1,23 @@
+{
+  "name": "sum-test",
+  "version": "1.0.0",
+  "description": "This is some test project to sum two number, do not take too seriously",
+  "main": "sum-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talisviirp/sum-test.git"
+  },
+  "keywords": [
+    "Sum",
+    "number"
+  ],
+  "author": "Talis Viirpalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talisviirp/sum-test/issues"
+  },
+  "homepage": "https://github.com/talisviirp/sum-test#readme"
+}
