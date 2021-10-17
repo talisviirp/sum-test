@@ -1,5 +1,5 @@
 {
-  "name": "sum-test",
+  "name": "talis-sum-test",
   "version": "1.0.0",
   "description": "This is some test project to sum two number, do not take too seriously",
   "main": "sum-test.js",
