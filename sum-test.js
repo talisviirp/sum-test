@@ -1,5 +1,5 @@
- const sumTwoNum = (num1, num2) => {
+sumTwoNum = (num1, num2) => {
     return num1 + num2;
- }
+}
 
- console.log(sumTwoNum(5, 5));
+ module.exports = sumTwoNum;
